@@ -12,7 +12,7 @@ const {
   userAppointmentsController,
 } = require("../controllers/userCtrl");
 const authMiddleware = require("../middlewares/authMiddleware");
-
+ 
 //router onject
 const router = express.Router();
 
