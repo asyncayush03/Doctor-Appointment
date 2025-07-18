@@ -1,2 +1,2 @@
 Doctor Appointment Application
-Special thanks to techinfo youtube channel.
+Special thanks to techinfo YT youtube channel.
