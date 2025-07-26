@@ -101,13 +101,6 @@ This project is licensed under the MIT License.
 
 This platform was built to simplify the healthcare appointment system by connecting patients and doctors digitally through a secure and easy-to-use interface.
 
-```
-
----
-
-Let me know if you'd like a 2-line summary or want to include sample screenshots, user flow, or deployment info in this `README.md`.
-```
-
 
 
 
